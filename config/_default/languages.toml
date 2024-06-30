@@ -4,8 +4,13 @@ languageName = "English"
 languagedirection = "ltr"
 title = "Notes"
 weight = 1
+[en.params]
+sidebar.subtitle = "Grasp the finite cycles of existence and sense the infinite expanse of the cosmos."
+
 [zh-cn]
 languageName = "简体中文"
 languagedirection = "ltr"
 title = "简记"
 weight = 2
+[zh-cn.params]
+sidebar.subtitle = "识盈虚之有数，觉宇宙之无穷。"
