@@ -11,5 +11,3 @@ menu:
         params: 
             icon: search
 ---
-
-search page
