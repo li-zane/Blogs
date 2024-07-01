@@ -14,8 +14,7 @@ languageCode = "en"
 languageContent = "content/"
 languageName = "English"
 languagedirection = "ltr"
-title = "Notes"
+title = "Zane's Notes"
 weight = 2
 [en.params]
 sidebar.subtitle = "Grasp the finite cycles of existence and sense the infinite expanse of the cosmos."
-

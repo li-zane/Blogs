@@ -6,7 +6,7 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2024
-customText = "test"
+customText = "内容由 Zane 创建"
 
 [dateFormat]
 published = "Jan 02, 2006"
