@@ -1,5 +1,5 @@
 ---
-title: "主页"
+title: "文章"
 date: 2022-03-06
 layout: "archives"
 slug: "archives"
