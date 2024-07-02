@@ -1,6 +1,6 @@
 ---
 title: Math
-description: Some Notes of Math
+description: 一些数学笔记
 image:
 
 # Badge style

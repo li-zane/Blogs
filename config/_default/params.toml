@@ -25,6 +25,7 @@ src = "img/avatar.png"
 headingAnchor = true
 math = true
 readingTime = true
+toc = true
 
 [article.license]
 enabled = true
