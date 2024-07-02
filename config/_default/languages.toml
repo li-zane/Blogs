@@ -6,7 +6,7 @@ languagedirection = "ltr"
 title = "简记"
 weight = 1
 [zh-cn.params]
-languageContent = "content/cn"
+languageContent = "content/"
 sidebar.subtitle = "识盈虚之有数，觉宇宙之无穷。"
 
 [en]
@@ -16,5 +16,5 @@ languagedirection = "ltr"
 title = "Zane's Notes"
 weight = 2
 [en.params]
-languageContent = "content/en"
+languageContent = "content/"
 sidebar.subtitle = "Grasp the finite cycles of existence and sense the infinite expanse of the cosmos."
